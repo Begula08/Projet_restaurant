@@ -10,4 +10,5 @@ des ingrédients frais et des épices spécialement importées pour garantir l'a
 ![cover](./asset/cover.svg.svg)
 
 concepteur &amp; réalisteur **Begula** product
+
 ![AUR License](https://img.shields.io/aur/license/c)
