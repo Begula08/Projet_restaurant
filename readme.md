@@ -9,6 +9,15 @@ de types rapide issus de différentes régions européennes. Chaque plat est pr�
 des ingrédients frais et des épices spécialement importées pour garantir l'authenticité.
 ![cover](./asset/cover.svg.svg)
 
+
 concepteur &amp; réalisteur **Begula** product
+
+## Charte graphique &amp; et Typographique
+* Palette couleur
+![paette](./asset/palette.png)
+* Typographie : Roboto Slab
+![typo](./asset/police.png)
+* Iconographie
+![icones](./asset/icon.png)
 
 ![AUR License](https://img.shields.io/aur/license/c)
