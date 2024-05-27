@@ -13,11 +13,11 @@ des ingrédients frais et des épices spécialement importées pour garantir l'a
 concepteur &amp; réalisteur **Begula** product
 
 ## Charte graphique &amp; et Typographique
-* Palette couleur
+### Palette couleur
 ![paette](./asset/palette.png)
-* Typographie : Roboto Slab
+### Typographie : Roboto Slab
 ![typo](./asset/police.png)
-* Iconographie
+### Iconographie
 ![icones](./asset/icon.png)
 
 ![AUR License](https://img.shields.io/aur/license/c)
