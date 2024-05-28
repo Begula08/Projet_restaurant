@@ -15,7 +15,7 @@ concepteur &amp; réalisteur **Begula** product
 ## Charte graphique &amp; et Typographique
 ### Palette couleur
 ![paette](./asset/palette.png)
-### Typographie : Roboto Slab
+### Typographie : Italiana
 ![typo](./asset/police.png)
 ### Iconographie
 ![icones](./asset/icon.png)
