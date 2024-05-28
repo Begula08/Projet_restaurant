@@ -16,8 +16,10 @@ concepteur &amp; réalisteur **Begula** product
 ### Palette couleur
 ![paette](./asset/palette.png)
 ### Typographie : Italiana
-![typo](./asset/police.png)
 ### Iconographie
 ![icones](./asset/icon.png)
 
 ![AUR License](https://img.shields.io/aur/license/c)
+
+
+[def]: ./asset/police.png
