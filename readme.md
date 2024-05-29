@@ -19,7 +19,7 @@ concepteur &amp; réalisteur **Begula** product
 ### Iconographie
 ![icones](./asset/icon.png)
 
-[voir le liens ci dessous](https://github.com/Begula08/Projet_restaurant.git)
+[voir le liens ci dessous](https://begula08.github.io/Projet_restaurant/)
 
 ![AUR License](https://img.shields.io/aur/license/c)
 
