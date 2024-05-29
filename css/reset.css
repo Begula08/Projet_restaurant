@@ -1,0 +1,32 @@
+/* reset css */
+/* element / propriété / Valeur */
+
+@import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
+
+html{
+    font-size: 62.5%; /* 16 * 62.5% = 10 */
+}
+body{
+    font: 1.6rem italiana ; /* Taille de police + caaracetre du texte */
+    margin: 0;
+    letter-spacing: .1rem;
+    line-height: 1.6;
+
+}
+h1,h2,h3,h4,h5,h6,p,ol,ul,blockquote,figure{
+margin: 0;
+padding: 0;
+list-style-type: 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+img{
+    display: inline-block;
+    vertical-align: middle;
+    object-fit: cover;
+}
+*{
+    box-sizing: border-box;
+}
