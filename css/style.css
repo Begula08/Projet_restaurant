@@ -12,3 +12,42 @@
 header h1, section h2, figcaption h3{
     color: var(--gold-primary) ;
 }
+
+/*navigation*/
+
+nav ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+nav{
+    background-color: var(--blue-primary);
+}
+nav ul li{
+    padding: 1rem;
+    width: max-content;
+    margin-right: .1rem;
+}
+nav ul li:first-child{
+background: transparent;
+}
+nav ul li button{
+    background-color: var(--red-primary);
+    padding: 1rem;
+    color: var(--White-primary);
+    clip-path: circle(50%);
+    font-size: large;
+    
+}
+
+nav ul li img{
+    border: solid 1rem #222;
+    border-radius: 50%;
+    background: #000;
+}
+nav ul li a{
+    display: block;
+    font-size: 1.7rem;
+    text-transform: capitalize;
+    color: var(--White-primary);
+}
