@@ -5,6 +5,7 @@
 
 html{
     font-size: 62.5%; /* 16 * 62.5% = 10 */
+    scroll-behavior: smooth;
 }
 body{
     font: 1.6rem italiana ; /* Taille de police + caaracetre du texte */

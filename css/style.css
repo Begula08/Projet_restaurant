@@ -73,7 +73,6 @@ header{
     text-align: center;
     padding-bottom: 1rem;
     border-bottom: solid .5rem var(--gold-primary);
-    height: 100svh;
 }
 header p{
     text-align: center;
@@ -87,8 +86,13 @@ header img{
     border: solid 1rem var(--gold-primary);
     width: 40rem;
 }
+
+.menus-primary{
+    height: auto;
+}
 section{
     background-color: var(--red-primary);
+   
 }
 section ul{
     display: grid;
