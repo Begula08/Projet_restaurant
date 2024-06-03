@@ -94,13 +94,22 @@ section{
     background-color: var(--red-primary);
    
 }
-section ul{
+section ul, section ul.gallery-primary{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+section ul.gallery-primary{
+    grid-template-columns: repeat(2, 1fr);
+    padding-top:  1rem;
+    gap: 1rem;
+}
+/*section ul{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
 }
 section ul{
     padding: 8rem 1rem;
-}
+} */
 section ul li figure figcaption, :is(img){
     display: inline-block;
     width: calc(100% / 2 - .8rem);
