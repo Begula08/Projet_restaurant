@@ -130,6 +130,7 @@ section ul li figure  figcaption p{
     color: var(--white-primary);
     text-overflow: ellipsis;
 }
+
 footer *{
     line-height: 3.5rem;
     text-align: center;
