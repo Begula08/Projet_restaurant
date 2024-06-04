@@ -83,8 +83,8 @@ header p{
 }
 
 header img{
-    border: solid 1rem var(--gold-primary);
-    width: 40rem;
+    border: solid .1rem var(--gold-primary);
+    width: 70rem;
 }
 
 .menus-primary{
