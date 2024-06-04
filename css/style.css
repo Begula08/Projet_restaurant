@@ -179,6 +179,8 @@ fieldset form input[type="submit"] {
    display: grid;
    grid-template-columns: repeat(6, 1fr);
    gap: 1rem;
+;
+
 }
 .separator-padding{
     padding: 10rem 1%;
@@ -195,6 +197,7 @@ fieldset form input[type="submit"] {
     margin-bottom: 4rem;
     border-bottom: solid 0.1rem var(--gold-primary);
 }
+
 footer * {
   line-height: 3.5rem;
   text-align: center;
