@@ -51,19 +51,25 @@
     </header>
 
     <main> <!-- zone principale -->
-        <section><h2>Réservation</h2>
+        <section>
+            <h2>
+                Réservation
+            </h2>
             <fieldset>
             <legend>Réservation</legend>
         <form method="get" action="reservation.html">
                 <label for="Nom">Votre Nom :</label>
                 <input type="text" name="Nom" id="Nom" placeholder="Ex. : Mathieu" size="30" maxlength="20">
-            <label for="start"> Date et heure</label>
-            <input type="datetime-local" id="start" name="trip-start" required>
-            <label for="my-select">Nombres de personne :</label>
-            <input type="number" id="my-select" name="Nombres" placeholder="Nombres" min="1" max="10" required>
+
+                <label for="start"> Date et heure</label>
+                <input type="datetime-local" id="start" name="trip-start" required>
+
+                <label for="my-select">Nombres de personne :</label>
+                <input type="number" id="my-select" name="Nombres" placeholder="Nombres" min="1" max="10" required>
+
                 <label for="mail">Votre adresse mail:</label>
                 <input type="text" name="mail" id="mail" placeholder="Ex. : client@lebongout.fr" size="30" maxlength="20">
-            <input type="submit" value="Envoyer">
+                <input type="submit" value="Envoyer">
         </form>
     </fieldset>
 </section>
