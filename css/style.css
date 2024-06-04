@@ -185,8 +185,7 @@ fieldset form input[type="submit"] {
 }
 .gallery-secondary li img{
     width: 100%;
-    border: solid 0.1rem 
-    var(--gold-primary);
+    border: solid 0.1rem var(--gold-primary);
 
 }
 .main-gallery{
