@@ -75,6 +75,7 @@ header {
   text-align: center;
   padding-bottom: 1rem;
   border-bottom: solid 0.5rem var(--gold-primary);
+  
 }
 header p {
   text-align: center;
@@ -173,12 +174,26 @@ fieldset form input[type="submit"] {
   border: 0;
 }
 /* gallery */
-.gallery-secondary {
-   border: solid .1rem var(--gold-primary);
+.gallery-secondary{
+
+   display: grid;
+   grid-template-columns: repeat(6, 1fr);
+   gap: 1rem;
+}
+.separator-padding{
+    padding: 10rem 1%;
+}
+.gallery-secondary li img{
+    width: 100%;
+
+}
+.main-gallery{
+    padding-bottom: 20svh;
 }
 footer * {
   line-height: 3.5rem;
   text-align: center;
   background-color: var(--red-primary);
   color: var(--white-primary);
+ 
 }
