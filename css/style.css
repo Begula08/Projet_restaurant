@@ -159,8 +159,10 @@ section.form-primary fieldset {
 }
 
 section .map{
-  margin: 1rem auto 0;
   display: block;
+  width: 80rem;
+  height: 40rem;
+  margin: 1rem auto 0;
 
 }
 fieldset {
