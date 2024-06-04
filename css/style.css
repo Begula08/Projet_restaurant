@@ -130,6 +130,49 @@ section ul li figure  figcaption p{
     color: var(--white-primary);
     text-overflow: ellipsis;
 }
+section.form-primary{
+    
+    padding: 1rem;
+    
+}
+section.form-primary fieldset{
+    max-width: 90rem;
+    margin: 0 auto;
+}
+fieldset{
+    border-radius: .4rem;
+}
+fieldset form{
+
+    margin:0 auto;
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+  } 
+  fieldset form label{
+    color: #fff;
+  }
+  fieldset legend{
+    font-size: 2rem;
+    color: #fff;
+  }
+  fieldset form input{
+    margin-bottom: 1rem;
+    line-height: 3.5rem;
+    border: 0;
+    background-color: #ccc;
+    padding: .4rem;
+    border-radius: .2rem;
+    font-size: inherit;
+  }
+ 
+  fieldset form input[type="submit"]{
+    width: 25%;
+    margin: 0;
+    background-color: var(--gold-primary);
+    cursor: pointer;
+    border: 0;
+  }
 
 footer *{
     line-height: 3.5rem;
