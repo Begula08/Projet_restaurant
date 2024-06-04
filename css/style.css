@@ -90,6 +90,23 @@ header img {
   width: 70rem;
 }
 
+.contact-primary{
+  text-align: center;
+  color: var(--white-primary);
+  max-width: 60rem;
+  margin: 1rem auto;
+  font-size: 2rem;
+}
+
+.contact-secondary{
+  font-size: 5rem;
+  text-transform: uppercase;
+  width: max-content;
+  margin: 0 auto;
+  border-bottom: solid 0.1rem var(--gold-primary);
+  color: var(--white-primary)
+}
+
 .menus-primary {
   height: auto;
 }
@@ -139,6 +156,12 @@ section.form-primary {
 section.form-primary fieldset {
   max-width: 90rem;
   margin: 0 auto;
+}
+
+section .map{
+  margin: 1rem auto 0;
+  display: block;
+
 }
 fieldset {
   border-radius: 0.4rem;
@@ -191,6 +214,8 @@ fieldset form input[type="submit"] {
 }
 .main-gallery{
     padding-bottom: 20svh;
+  
+
 }
 footer * {
   line-height: 3.5rem;
