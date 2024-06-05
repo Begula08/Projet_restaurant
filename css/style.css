@@ -232,3 +232,67 @@ footer * {
   color: var(--white-primary);
  
 }
+
+/* dispositif mobile */
+@media screen and (max-width: 80rem){
+  body{
+      margin: 0 1%;
+      background-color: var(--blue-primary);
+  }
+  header{
+
+      height: auto;
+  }
+  nav ul{
+     /*  display: flex;
+      flex-direction: row;
+      align-items: center; */
+      display: block;
+      width: auto;
+  }
+  nav ul li{
+      background-color: #3737e9;
+      display: block;
+      width: auto;
+      margin-bottom: .1rem;
+  }
+
+  header p{
+      width: auto;
+      text-align: justify;
+      padding: 1%;
+  }
+  header img{
+      display: inline-block;
+      width: 100%;
+  }
+  section ul{
+      display: block;
+      
+  }
+  section ul li figure figcaption, :is(img){
+      display: block;
+      width: calc(100% / 1);
+ 
+  
+  }
+  header h1, section h2{
+   
+      width: auto;
+      text-align: center;
+    
+  }
+  header h1, section h2{
+      font-size: 4rem;
+  }
+  .form-primary fieldset{
+      width: auto;
+
+  }
+  .form-primary form input[type="submit"]{
+      display: initial;
+      width: 100%;
+  
+  }
+
+}
