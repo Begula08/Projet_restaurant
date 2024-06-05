@@ -360,7 +360,7 @@ footer * {
     line-height: 2.5rem;
   }
   .gallery-secondary {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
   }
   .main-title {
     font-size: 3rem;
