@@ -7,6 +7,10 @@ d'activité de la restauration de type rapide.
 Notre menu est une véritable odyssée culinaire, proposant une sélection de plats
 de types rapide issus de différentes régions européennes. Chaque plat est préparé avec
 des ingrédients frais et des épices spécialement importées pour garantir l'authenticité.
+
+>**Arborescence**
+![arborescence](./asset/arbo.png)
+
 ![cover](./asset/cover.svg.svg)
 
 
